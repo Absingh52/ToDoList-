@@ -2,7 +2,7 @@
   "name": "tutorials",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://absingh52.github.io/ToDoList",
+  "homepage": "https://Absingh52.github.io/ToDoList",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
